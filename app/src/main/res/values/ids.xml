@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="switch_layout" type="id">action_switch_layout</item>
+    <item name="action_switch_layout" type="id">test</item>
+</resources>
